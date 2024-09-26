@@ -1,0 +1,38 @@
+.revenueCardContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.revenueCard1 {
+  width: 1875px;
+  height: 400px;
+  margin: 8px;
+  padding: 3px 2px 2px 3px;
+  border-radius: 10px;
+  font-size: 25px;
+  font-weight: bold;
+  background: whitesmoke;
+}
+
+.revenueCard2 {
+  width: 1000px;
+  height: 500px;
+  margin: 7px;
+  border-radius: 8px;
+  background-color: whitesmoke;
+}
+.revenueCard3{
+  width: 1000px;
+  height: 500px;
+  margin: 6px;
+  padding: 3px 2px 2px 3px;
+  border-radius: 8px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: whitesmoke; 
+}
+
+.revenueCardWrapper {
+  display: flex;
+  justify-content: space-between;
+}
